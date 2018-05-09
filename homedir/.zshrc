@@ -51,5 +51,9 @@ load-nvmrc
 # Customize to your needs...
 unsetopt correct
 
+
+export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"
+
 # run fortune on new terminal :)
+
 fortune
